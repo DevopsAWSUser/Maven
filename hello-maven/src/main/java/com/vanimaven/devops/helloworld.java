@@ -1,8 +1,8 @@
-//utils.java
-package main.java.com.vanimaven.devops;
-class HelloWorld {
-  public static void main(String[] args) {
-    System.out.println("Hello world");
+// HelloWorld.java
+package com.vanimaven.devops;
 
-  }
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }

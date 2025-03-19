@@ -1,7 +1,8 @@
-//utils.java
-package main.java.com.vanimaven.devops;
+// Utils.java
+package com.vanimaven.devops;
+
 public class Utils {
-  public String getName() {
-    return "siva Academy";
-  }
+    public String getName() {
+        return "Siva Academy";
+    }
 }
